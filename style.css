@@ -82,7 +82,7 @@ body {
 .card {
   width: 100%;
   padding: 8% 9.5%;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.3px;
   text-align: left;
   background: var(--white);
   border-radius: 10px;
