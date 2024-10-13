@@ -166,7 +166,7 @@ body {
   .main-area {
     max-width: 1440px;
     max-height: 924px;
-    padding: 78px 166px;
+    padding: 80px 166px;
   }
   .top-area {
     margin-bottom: 33px;
@@ -191,7 +191,7 @@ body {
     padding: 26px 32px;
   }
   .card p {
-    margin-bottom: 120px;
+    margin-bottom: 124px;
   }
   .card1 {
     grid-column: 1/5;
