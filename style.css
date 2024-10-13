@@ -194,6 +194,7 @@ body {
     margin-bottom: 8px;
   }
   .card p {
+    padding-right: 24px;
     margin-bottom: 105px;
     line-height: 24px;
   }
