@@ -82,7 +82,7 @@ body {
 .card {
   width: 100%;
   padding: 8% 9.5%;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   text-align: left;
   background: var(--white);
   border-radius: 10px;
@@ -185,7 +185,7 @@ body {
   }
 
   .bottom-area {
-    grid-gap: 30px;
+    grid-gap: 31px;
     grid-template-rows: repeat(6, auto);
   }
   .card {
