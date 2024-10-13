@@ -169,7 +169,7 @@ body {
     padding: 80px 166px;
   }
   .top-area {
-    margin-bottom: 33px;
+    margin-bottom: 34px;
   }
   .top-area h1,
   .top-area h2 {
@@ -188,10 +188,11 @@ body {
     grid-template-rows: repeat(6, auto);
   }
   .card {
-    padding: 26px 32px;
+    padding: 24px 32px;
   }
   .card p {
-    margin-bottom: 124px;
+    margin-bottom: 126px;
+    line-height: 24px;
   }
   .card1 {
     grid-column: 1/5;
