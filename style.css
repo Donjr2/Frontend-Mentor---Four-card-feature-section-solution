@@ -188,10 +188,13 @@ body {
     grid-template-rows: repeat(6, auto);
   }
   .card {
-    padding: 30px 32px;
+    padding: 28px 32px;
+  }
+  .card h3 {
+    margin-bottom: 8px;
   }
   .card p {
-    margin-bottom: 112px;
+    margin-bottom: 105px;
     line-height: 24px;
   }
   .card1 {
